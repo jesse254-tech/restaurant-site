@@ -8,7 +8,9 @@ A responsive restaurant website for Savanna Kitchen — a Kenyan grill &amp; caf
 - Full-screen hero with call-to-action
 - About section with quick stats
 - Tabbed menu (Starters / Mains / Drinks)
+- Special offers section
 - Photo gallery with hover zoom
+- Testimonials carousel
 - Reservation form
 - Footer with opening hours and social links
 
